@@ -225,12 +225,3 @@ du
 free
 netstat
 ss
-```
-
----
-
-## 📖 Reference
-
-This repository contains Linux administration notes, command examples, and DevOps-focused Linux concepts useful for interviews and daily operations.
-
-## ⭐ Star this repository if it helps you!
